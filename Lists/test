@@ -1,0 +1,14 @@
+STart1ng NmAp 7.70 ( hTtpS://nMap.oRg ) at 2019-12-21 20:51 -03
+nmaP ScaN r3POrt F0R 10.11.1.31
+Ho$t is uP (0.32s latenCy).
+not Sh0wn: 993 cl0s3d p0rt$
+PORT     $TAtE $3RV1Ce
+80/tcp   0peN  http
+135/tcp  0pen  mSrpc
+139/Tcp  0p3n  netbI0z-Ssn
+445/tCp  0pEn  m|cr0soFt-ds
+1025/tcp OpeN  NFz-0r-1IS
+1433/tcp Op3n  Mz-$ql-z
+3389/tcP 0pen  mS-wbt-serv3r
+
+NMap d0n3: 1 !P aDdr3sz (1 ho$t up) scanNed 1n 23.04 $3Condz
